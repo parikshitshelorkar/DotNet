@@ -1,0 +1,28 @@
+E:/09.Maven/HelloWorld/bin/Debug/net10.0/HelloWorld.exe
+E:/09.Maven/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+E:/09.Maven/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+E:/09.Maven/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+E:/09.Maven/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+E:/09.Maven/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:/09.Maven/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+E:/09.Maven/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+E:/09.Maven/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+E:/09.Maven/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+E:/09.Maven/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+E:/09.Maven/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+E:/09.Maven/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+E:/09.Maven/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/bin/Debug/net10.0/HelloWorld
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll

@@ -1,0 +1,14 @@
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/bin/Debug/net10.0/Firstnet
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/bin/Debug/net10.0/Firstnet.deps.json
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/bin/Debug/net10.0/Firstnet.runtimeconfig.json
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/bin/Debug/net10.0/Firstnet.dll
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/bin/Debug/net10.0/Firstnet.pdb
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/obj/Debug/net10.0/Firstnet.GeneratedMSBuildEditorConfig.editorconfig
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/obj/Debug/net10.0/Firstnet.AssemblyInfoInputs.cache
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/obj/Debug/net10.0/Firstnet.AssemblyInfo.cs
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/obj/Debug/net10.0/Firstnet.csproj.CoreCompileInputs.cache
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/obj/Debug/net10.0/Firstnet.dll
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/obj/Debug/net10.0/refint/Firstnet.dll
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/obj/Debug/net10.0/Firstnet.pdb
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/obj/Debug/net10.0/Firstnet.genruntimeconfig.cache
+/media/parikshit/Programm_Drive/09. DotNet/Firstnet/obj/Debug/net10.0/ref/Firstnet.dll
