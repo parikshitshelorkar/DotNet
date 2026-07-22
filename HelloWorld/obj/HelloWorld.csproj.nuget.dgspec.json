@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/HelloWorld.csproj": {}
+    "/media/parikshit/Programm_Drive/09.DotNet/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/HelloWorld.csproj": {
+    "/media/parikshit/Programm_Drive/09.DotNet/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/media/parikshit/Programm_Drive/09.DotNet/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/media/parikshit/Programm_Drive/09.DotNet/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/home/parikshit/.nuget/packages/",
-        "outputPath": "/media/parikshit/Programm_Drive/09. DotNet/HelloWorld/obj/",
+        "outputPath": "/media/parikshit/Programm_Drive/09.DotNet/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/parikshit/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.109/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

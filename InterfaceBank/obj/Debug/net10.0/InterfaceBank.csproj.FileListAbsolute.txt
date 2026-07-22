@@ -1,0 +1,15 @@
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/bin/Debug/net10.0/InterfaceBank
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/bin/Debug/net10.0/InterfaceBank.deps.json
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/bin/Debug/net10.0/InterfaceBank.runtimeconfig.json
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/bin/Debug/net10.0/InterfaceBank.dll
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/bin/Debug/net10.0/InterfaceBank.pdb
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/InterfaceBank.GeneratedMSBuildEditorConfig.editorconfig
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/InterfaceBank.AssemblyInfoInputs.cache
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/InterfaceBank.AssemblyInfo.cs
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/InterfaceBank.csproj.CoreCompileInputs.cache
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/InterfaceBank.sourcelink.json
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/InterfaceBank.dll
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/refint/InterfaceBank.dll
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/InterfaceBank.pdb
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/InterfaceBank.genruntimeconfig.cache
+/media/parikshit/Programm_Drive/09.DotNet/InterfaceBank/obj/Debug/net10.0/ref/InterfaceBank.dll

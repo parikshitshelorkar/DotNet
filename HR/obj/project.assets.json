@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/parikshit/Programm_Drive/09. DotNet/HR/HR.csproj",
+      "projectUniqueName": "/media/parikshit/Programm_Drive/09.DotNet/HR/HR.csproj",
       "projectName": "HR",
-      "projectPath": "/media/parikshit/Programm_Drive/09. DotNet/HR/HR.csproj",
+      "projectPath": "/media/parikshit/Programm_Drive/09.DotNet/HR/HR.csproj",
       "packagesPath": "/home/parikshit/.nuget/packages/",
-      "outputPath": "/media/parikshit/Programm_Drive/09. DotNet/HR/obj/",
+      "outputPath": "/media/parikshit/Programm_Drive/09.DotNet/HR/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/parikshit/.nuget/NuGet/NuGet.Config"
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.109/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
