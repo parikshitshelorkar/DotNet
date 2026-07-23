@@ -11,7 +11,7 @@ class Program
         int[] numbers = {10,20,30,40};
 
         Console.WriteLine(typeof(int[]));
-
+        //my list of numbers
         //changes done by Ravi T
         // IEnumerator enumerator = numbers.GetEnumerator();
 
