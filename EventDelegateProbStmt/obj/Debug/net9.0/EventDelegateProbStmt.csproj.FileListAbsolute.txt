@@ -1,0 +1,26 @@
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/bin/Debug/net9.0/EventDelegateProbStmt.exe
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/bin/Debug/net9.0/EventDelegateProbStmt.deps.json
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/bin/Debug/net9.0/EventDelegateProbStmt.runtimeconfig.json
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/bin/Debug/net9.0/EventDelegateProbStmt.dll
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/bin/Debug/net9.0/EventDelegateProbStmt.pdb
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.GeneratedMSBuildEditorConfig.editorconfig
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.AssemblyInfoInputs.cache
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.AssemblyInfo.cs
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.csproj.CoreCompileInputs.cache
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.sourcelink.json
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.dll
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/refint/EventDelegateProbStmt.dll
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.pdb
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.genruntimeconfig.cache
+D:/TAP/My Git Repos/.NET/EventDelegateProbStmt/obj/Debug/net9.0/ref/EventDelegateProbStmt.dll
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/bin/Debug/net9.0/EventDelegateProbStmt
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/bin/Debug/net9.0/EventDelegateProbStmt.dll
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/bin/Debug/net9.0/EventDelegateProbStmt.pdb
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.GeneratedMSBuildEditorConfig.editorconfig
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.AssemblyInfoInputs.cache
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.AssemblyInfo.cs
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.csproj.CoreCompileInputs.cache
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.sourcelink.json
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.dll
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/obj/Debug/net9.0/refint/EventDelegateProbStmt.dll
+/media/parikshit/Programm_Drive/09.DotNet/EventDelegateProbStmt/obj/Debug/net9.0/EventDelegateProbStmt.pdb

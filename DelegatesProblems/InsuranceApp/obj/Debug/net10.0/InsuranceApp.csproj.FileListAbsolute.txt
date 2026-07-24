@@ -1,0 +1,15 @@
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/InsuranceApp.GeneratedMSBuildEditorConfig.editorconfig
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/InsuranceApp.AssemblyInfoInputs.cache
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/InsuranceApp.AssemblyInfo.cs
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/InsuranceApp.csproj.CoreCompileInputs.cache
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/InsuranceApp.sourcelink.json
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/bin/Debug/net10.0/InsuranceApp
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/bin/Debug/net10.0/InsuranceApp.deps.json
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/bin/Debug/net10.0/InsuranceApp.runtimeconfig.json
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/bin/Debug/net10.0/InsuranceApp.dll
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/bin/Debug/net10.0/InsuranceApp.pdb
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/InsuranceApp.dll
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/refint/InsuranceApp.dll
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/InsuranceApp.pdb
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/InsuranceApp.genruntimeconfig.cache
+/media/parikshit/Programm_Drive/09.DotNet/DelegatesProblems/InsuranceApp/obj/Debug/net10.0/ref/InsuranceApp.dll
