@@ -17,12 +17,14 @@ class Student
     }
     public Student AddStudent(int Id, string name, int age, string department)
     {
-        Student s = new Student();
-        return s;
+        return new Student(Id, name, age, department);
     }
     public void ViewStudent(int id)
     {
-        // Code to view a student
+        Console.WriteLine($"Student ID: {Id}");
+        Console.WriteLine($"Name: {Name}");
+        Console.WriteLine($"Age: {Age}");
+        Console.WriteLine($"Department: {Department}");
     }
     public void UpdateStudent(int id, string name, int age)
     {

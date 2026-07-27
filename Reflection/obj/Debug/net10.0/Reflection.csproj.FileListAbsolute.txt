@@ -1,0 +1,15 @@
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/bin/Debug/net10.0/Reflection
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/bin/Debug/net10.0/Reflection.deps.json
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/bin/Debug/net10.0/Reflection.runtimeconfig.json
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/bin/Debug/net10.0/Reflection.dll
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/bin/Debug/net10.0/Reflection.pdb
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/Reflection.GeneratedMSBuildEditorConfig.editorconfig
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/Reflection.AssemblyInfoInputs.cache
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/Reflection.AssemblyInfo.cs
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/Reflection.csproj.CoreCompileInputs.cache
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/Reflection.sourcelink.json
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/Reflection.dll
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/refint/Reflection.dll
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/Reflection.pdb
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/Reflection.genruntimeconfig.cache
+/media/parikshit/Programm_Drive/09.DotNet/Reflection/obj/Debug/net10.0/ref/Reflection.dll
