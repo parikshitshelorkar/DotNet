@@ -6,6 +6,8 @@ namespace MvcWebApp.Controllers;
 
 public class CustomerController: Controller
 {
+    //Action methods:
+    
     public IActionResult Index()
     {
         return View();

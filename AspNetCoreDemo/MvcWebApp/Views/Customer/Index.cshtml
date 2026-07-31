@@ -1,1 +1,23 @@
 <h1>Welcome to Transflower</h1>
+
+<h2>Customer List</h2> 
+<hr/>
+
+@{
+    List<Customer> customers = new List<Customer>();
+        @* customers.Add(new Customer{Firstname="Sumit", LastName="Bhor"}); *@
+        customers.Add(new Customer{Name="PARIKSHIT SHELORKAR"});
+        customers.Add(new Customer{Name="PARIKSHIT SHELORKAR"});
+        customers.Add(new Customer{Name="PARIKSHIT SHELORKAR"});
+        customers.Add(new Customer{Name="PARIKSHIT SHELORKAR"});
+        customers.Add(new Customer{Name="PARIKSHIT SHELORKAR"});
+
+        <ol>
+            @foreach(Customer cst in customers){
+                <li>
+                    @cst.Name
+                </li>
+            }
+        </ol>
+
+}

@@ -1,4 +1,8 @@
-﻿@{
+﻿<!--Razor page-->
+@* We are able to mix both language syntax in the single file *@
+<!--Razor Syntax We are able to mix both language syntax in the single file-->
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -6,3 +10,13 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+
+@{
+    //This is C# code
+
+    int count = 67;
+    count = count+34;
+    <p> Result = @count</p> 
+        
+}
