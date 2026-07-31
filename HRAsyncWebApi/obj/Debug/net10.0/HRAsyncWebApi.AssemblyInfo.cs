@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRAsyncWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da907c4c3f0d9159b9073af2e0f43af8a8728be2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63df0d3427bfea4a875f5fd27264f67e8c3ffba5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRAsyncWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRAsyncWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
