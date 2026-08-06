@@ -1,8 +1,11 @@
-namespace EcommercePortalMvc.Products;
+namespace EcommercePortalMvc.Models;
 
-class Products
+class Product
 {
-    public int id{get; set;}
-    public string Name{get; set;}
+    public int Id{get; set;}
+    public string? Name{get; set;}
+    public string? description {get; set;}
+    public int Price {get; set;}
+
     
 }

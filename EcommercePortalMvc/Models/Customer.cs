@@ -2,8 +2,9 @@ namespace EcommercePortalMvc.Models;
 
 class Customer
 {
+    public int Id{get; set;}
     public string Name{get; set;}
-    public int CustId{get; set;}
     public string Contact {get; set;}
-    
+    public string? Email {get; set;}
+    public string Password{get; set;}
 }
