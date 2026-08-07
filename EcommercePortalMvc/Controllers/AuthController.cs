@@ -28,7 +28,7 @@ public class AuthController : Controller
     [HttpGet]
     public IActionResult Register()
     {
-        Customer customer = new Customer();
+        EcommercePortalMvc.Models.Customer customer = new EcommercePortalMvc.Models.Customer();
         customer.Id=1;
         customer.Name="";
         customer.Email="";
@@ -36,7 +36,7 @@ public class AuthController : Controller
         return View(customer);
     }
     [HttpPost]
-    public IActionResult Register(Customer customer)
+    internal IActionResult Register(EcommercePortalMvc.Models.Customer customer)
     {
         Console.WriteLine($"New user Registered: {customer.Name}, {customer.Email}, {customer.Contact}");
         return  RedirectToAction("Login");
@@ -47,5 +47,3 @@ public class AuthController : Controller
         return View();
     }
 }
-
-    

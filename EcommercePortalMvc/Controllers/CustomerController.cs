@@ -18,7 +18,7 @@ public class CustomerController : Controller
     }
     public IActionResult Contactus()
     {
-        Address address = new Address
+        Models.Address address = new Models.Address
         {
             Street = "601, Pune Satar Road",
             City = "Pune",
