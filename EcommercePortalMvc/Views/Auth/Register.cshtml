@@ -1,4 +1,4 @@
-@* @{
+@{
     ViewData["Title"] = "Register";
 }
 <h2>
@@ -10,7 +10,7 @@
 {
     <p style="color:red;">@ViewBag.Message</p>
 }
-<form asp-action="Change Password" asp-controller="Account" method="post">
+<form asp-action="Register" asp-controller="Auth" method="post">
     <table>
         <tr>
             <td>
@@ -35,18 +35,6 @@
             </td>
             <td>
                 <input type="tel" name="contact" value="@Model.Contact" placeholder="Enter Mobile Number" required />
-            </td>
-        </tr>
-        <tr>
-            <td><label>City</label></td>
-             <td>
-                <input type="text" name="City" value="@Model.City" placeholder="Enter City" />
-            </td> 
-        </tr>
-        <tr>
-            <td><label>State</label></td>
-            <td>
-                <input type="text" name="State" value="@Model.State" placeholder="Enter State" />
             </td>
         </tr>
         <tr>
@@ -81,57 +69,6 @@
                 Already have an account?
                 <a asp-action="Login" asp-controller="Auth"> Login </a>
 
-            </td>
-        </tr>
-
-    </table>
-
-</form> *@
-@{
-    ViewData["Title"] = "Login";
-}
-<h2>
-    User Login
-</h2>
-<hr />
-
-@if (ViewBag.Message != null)
-{
-    <p style="color:red;">@ViewBag.Message</p>
-}
-<form asp-action="Change Password" asp-controller="Account" method="post">
-    <table>
-        <tr>
-            <td>
-                <label for="">User Name</label>
-                <td>
-                    <input type="text" name="username" value="@Model.Name" placeholder="Enter Username " required />
-                </td>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="">Password</label>
-                <td>
-                    <input type="password" name="Password" value="@Model.Password" placeholder="Enter Password" required />
-                </td>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <input type="checkbox"  id="rememberMe"     name="RememberMe" />
-                <label for="rememberMe">Remember Me</label>
-            </td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>
-                <input type="submit"  value="Login" />
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" align="center">
-                <a asp-action="Login" asp-controller="Auth"> New User? Register Here  </a>
             </td>
         </tr>
 

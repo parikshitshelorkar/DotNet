@@ -10,13 +10,13 @@
 {
     <p style="color:red;">@ViewBag.Message</p>
 }
-<form asp-action="Change Password" asp-controller="Account" method="post">
+<form asp-action="Login" asp-controller="Auth" method="post">
     <table>
         <tr>
             <td>
                 <label for="">User Name</label>
                 <td>
-                    <input type="text" name="username" value="@Model.Name" placeholder="Enter Username " required />
+                    <input type="text" name="username" value="@Model.UserName" placeholder="Enter Username " required />
                 </td>
             </td>
         </tr>
@@ -30,19 +30,19 @@
         </tr>
         <tr>
             <td>
-                <input type="checkbox"  id="rememberMe"     name="RememberMe" />
+                <input type="checkbox" id="rememberMe" name="RememberMe" />
                 <label for="rememberMe">Remember Me</label>
             </td>
         </tr>
         <tr>
             <td></td>
             <td>
-                <input type="submit"  value="Login" />
+                <input type="submit" value="Login" />
             </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
-                <a asp-action="Login" asp-controller="Auth"> New User? Register Here  </a>
+                <a asp-action="Register" asp-controller="Auth"> New User? Register Here </a>
             </td>
         </tr>
 
