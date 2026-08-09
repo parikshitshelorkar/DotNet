@@ -19,6 +19,10 @@ public class ProductController : Controller
     {
         return View(products);
     }
+    public IActionResult List()
+    {
+        return View(products);
+    }
 
     public IActionResult Details(int id)
     {
@@ -76,7 +80,7 @@ public class ProductController : Controller
             return View(product);
         
     }
-    [HttpGet]
+    [HttpPost]
     public IActionResult Remove(Product product)
     {
         Product existingProduct = products.FirstOrDefault(p => p.Id == product.Id);
@@ -84,7 +88,7 @@ public class ProductController : Controller
         {
             products.Remove(existingProduct);
         }
-        return RedirectToAction();
+        return RedirectToAction("List");
     }
 }
 

@@ -34,16 +34,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/parikshit/Programm_Drive/09.DotNet/EcommercePortalMvc/Views/Customer/AddCustomer.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvQWRkQ3VzdG9tZXIuY3NodG1s
+[/media/parikshit/Programm_Drive/09.DotNet/EcommercePortalMvc/Views/Customer/Aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvQWJvdXR1cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/parikshit/Programm_Drive/09.DotNet/EcommercePortalMvc/Views/Customer/DeleteCustomer.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGVsZXRlQ3VzdG9tZXIuY3NodG1s
+[/media/parikshit/Programm_Drive/09.DotNet/EcommercePortalMvc/Views/Customer/Contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvQ29udGFjdHVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/parikshit/Programm_Drive/09.DotNet/EcommercePortalMvc/Views/Customer/ShowCustomerDetail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvU2hvd0N1c3RvbWVyRGV0YWlsLmNzaHRtbA==
+[/media/parikshit/Programm_Drive/09.DotNet/EcommercePortalMvc/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/media/parikshit/Programm_Drive/09.DotNet/EcommercePortalMvc/Views/Home/Index.cshtml]
