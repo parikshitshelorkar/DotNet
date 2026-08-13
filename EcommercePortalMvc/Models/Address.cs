@@ -1,4 +1,4 @@
-namespace ECommercePortal.Models;
+namespace ECommercePortalMvc.Models;
 public class Address
 {
     public string? Street { get; set; }

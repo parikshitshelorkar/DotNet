@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using EcommercePortalMvc.Models;
+using ECommercePortalMvc.Models;
 
-namespace EcommercePortalMvc.Controllers;
+namespace ECommercePortalMvc.Controllers;
 
 public class HomeController : Controller
 {

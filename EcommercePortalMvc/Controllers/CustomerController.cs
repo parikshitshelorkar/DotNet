@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using EcommercePortalMvc.Models;
+using ECommercePortalMvc.Models;
+
 
 namespace ECommercePortal.Controllers;
 
@@ -18,7 +19,7 @@ public class CustomerController : Controller
     }
     public IActionResult Contactus()
     {
-        Models.Address address = new Models.Address
+        Address address = new Address
         {
             Street = "601, Pune Satar Road",
             City = "Pune",
