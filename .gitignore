@@ -1,0 +1,36 @@
+## Core Build Outputs
+[Bb]in/
+[Oo]bj/
+[Log]/
+
+## Visual Studio Cache and Settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+
+## Visual Studio Code
+.vscode/
+!.vscode/extensions.json
+
+## Crash dumps and Test Results
+*.codevitstresults
+*.trx
+*.mdmp
+*.dump
+
+## Publish output / Deployment artifacts
+*.[Pp]ublish.xml
+*.azurewebsites.net
+publish/
+
+## Secret / Local configuration files
+## Un-comment if you use local overrides that should not be shared
+# **/appsettings.Development.json
+# **/appsettings.Local.json
+
