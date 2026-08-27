@@ -6,9 +6,10 @@
     premium = 10000,
     startDate = DateTime.Today.AddMonths(-6),
     endDate = DateTime.Today.AddDays(20),
-    isActive = true
+    Status = true
 };
 
+//extension methods
 Console.WriteLine(policy.IsValid());
 Console.WriteLine(policy.DaysRemaining());
 Console.WriteLine(policy.GetSummary());

@@ -2,10 +2,10 @@ public static class PolicyExtensions
 {
     public static bool IsValid(this Policy policy)
     {
-        // endDate < today
+        // endDate > today
         DateTime today = DateTime.Today;
 
-        return policy.isActive && policy.startDate <= today && policy.endDate>=today;
+        return policy.Status && policy.startDate <= today && policy.endDate >= today;
 
     }
 
@@ -27,4 +27,10 @@ public static class PolicyExtensions
             $"Premium: ₹{policy.premium}\n" +
             $"Status: {(policy.IsValid() ? "Valid" : "Invalid")}";
     }
+
+    public static bool IsActive(this Policy policy)
+    {
+        return policy.Status == true;
+    }
+
 }
