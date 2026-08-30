@@ -60,45 +60,56 @@ public class Program
         }
 
         var policiesByPremium = policies.OrderByDescending(p => p.Premium);
+        Console.WriteLine("Policies sorted by Premium in descending order:" + policiesByPremium);
+
         var policyNumbers = policies.Select(p => p.PolicyNumber);
+        Console.WriteLine("Policy Numbers: " + string.Join(", ", policyNumbers));//join keyword is used to join the elements of a collection into a single string, with a specified separator.
+
         bool hasPolicy = policies.Any(p => p.CustomerId == 101);
+        Console.WriteLine("Does the customer with ID 101 have any policies? " + hasPolicy);
+
         var policy = policies.FirstOrDefault(p => p.PolicyNumber == "POL1001");
-        var customerPolicies = policies.Where(p => p.CustomerId == 101);
-        var policySummary = policies.Select(p => new { p.PolicyNumber, p.Premium, p.IsActive }).ToList();
+        Console.WriteLine("Policy with number POL1001: " + policies);
+
+        var customerPolicies = policies.Where(p => p.CustomerId == 101);//Selecting specific properties from the policies and creating a new anonymous type
+        Console.WriteLine("Policies for customer with ID 101: " + customerPolicies);
+
+        var policySummary = policies.Select(p => new { p.PolicyNumber, p.Premium, p.Status }).ToList();
+        Console.WriteLine("Policy Summary: " + policySummary);
 
         var result = policies
-    .Where(p => p.IsActive())
-    .Where(p => p.SumAssured > 1000000)
-    .OrderByDescending(p => p.Premium)
-    .ToList();
+        .Where(p => p.IsActive())
+        .Where(p => p.SumAssured > 1000000)
+        .OrderByDescending(p => p.Premium)
+        .ToList();
+        Console.WriteLine("Active policies with Sum Assured greater than 1,000,000 sorted by Premium in descending order: " + result);
 
-
-        Console.WriteLine(policiesByPremium);
-        Console.WriteLine(policyNumbers);
-        Console.WriteLine(policy);
-        Console.WriteLine();
-    }
-    
-
-
-    List<Claim> claims = new List<Claim>
-    {
+        List<Claim> claims = new List<Claim>
+        {
         new Claim { Amount = 50000, Status = "Pending" },
         new Claim { Amount = 100000, Status = "Approved" },
         new Claim { Amount = 75000, Status = "Pending" },
         new Claim { Amount = 20000, Status = "Rejected" },
         new Claim { Amount = 150000, Status = "Pending" }
-    };
-    // var pendingClaims = claims
-    // .Where(c => c.Status == "Pending")
-    // .Where(c => c.Amount > 50000)
-    // .OrderByDescending(c => c.Amount)
-    // .ToList();
+        };
 
-    private static readonly List<Premium> premiums = new();
+        List<Claim> pendingClaims = claims
+        .Where(c => c.Status == "Pending")
+        .Where(c => c.Amount > 50000)
+        .OrderByDescending(c => c.Amount)
+        .ToList();
 
-    decimal totalPremium = premiums.Sum(p => p.Amount);
-    decimal averagePremium = premiums.Average(p => p.Amount);
-    decimal highestPremium = premiums.Max(p => p.Amount);
+
+    }
+
+
+
+    // private List<Premium> premiums = new();
+    // decimal totalPremium = premiums.Sum(p => p.Amount);
+    // decimal averagePremium = premiums.Average(p => p.Amount);
+    // decimal highestPremium = premiums.Max(p => p.Amount);
     // int totalPolicies = policies.Count();
+
+
+    
 };
